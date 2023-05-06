@@ -2,6 +2,9 @@
 
 Bu repo, Kodluyoruz Front-End Eğitiminde oluşturduğum HTML ödev reposudur. İçerisinde bir adet README dosyası ve bir adet .html uzantılı dosya bulunmaktadır.
 
+![GitHub Logo](/img/Screenshot_5)
+
+
 ## Kurulum
 
 Öncelikle projeyi klonlayın.
